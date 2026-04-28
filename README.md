@@ -40,7 +40,8 @@ A visual dashboard was created to monitor:
 
 ## 📸 Screenshots
 
- 
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/80f5d027-de09-4179-bfb4-3ffb57a5453f" />
+
 
 ## 🎥 Demo
 
