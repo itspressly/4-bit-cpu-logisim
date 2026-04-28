@@ -42,6 +42,8 @@ A visual dashboard was created to monitor:
 
  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/80f5d027-de09-4179-bfb4-3ffb57a5453f" />
 
+*while live
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d52b4ebd-d958-4f1a-b70c-1487b6107c18" />
 
 ## 🎥 Demo
 
